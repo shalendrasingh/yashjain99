@@ -21,10 +21,6 @@ Here are some ideas to get you started:
 #### Github Stats:
 
 <div style = "display:flex; justify-content: space-around" >
-  <div>
-    <img src = "https://github-readme-stats.vercel.app/api?username=yashjain99&&show_icons=true&theme=radical&count_private=true&include_all_commits=true" />
-  </div>
-  <div>
-    <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=yashjain99&show_icons=true&theme=radical" />
-  </div>
+  <img src = "https://github-readme-stats.vercel.app/api?username=yashjain99&&show_icons=true&theme=radical&count_private=true&include_all_commits=true" />
+  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=yashjain99&show_icons=true&theme=radical" />
 </div>
